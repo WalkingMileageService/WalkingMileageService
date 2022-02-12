@@ -12,11 +12,12 @@ Walking Mileage Service Description
 ---
 
 ### 인프라 환경
-<img width="765" alt="infra_v1_220212" src="https://user-images.githubusercontent.com/43517509/153698186-bb96ba7e-4504-480b-8167-f77b437c92cc.png">
+<img width="765" alt="infra_v2_220212" src="https://user-images.githubusercontent.com/43517509/153699748-78ae0923-f6a7-4c8e-ab5c-e56d1ec6cf4a.png">
 
 ---
 
 ### ERD
+<img width="1265" alt="erd_v2_220212" src="https://user-images.githubusercontent.com/43517509/153699746-ba4efc1c-1bda-42df-818f-2e610a87433e.png">
 
 ---
 
